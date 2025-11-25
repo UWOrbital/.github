@@ -1,1 +1,1 @@
-# UW Orbital
+![README Main Image](github-readme.png)
